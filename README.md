@@ -38,4 +38,4 @@
 `B25104_017E`: Estimate!!Total:!!No cash rent	MONTHLY HOUSING COSTS
 
 ### house_data.csv
-we will also use the house_data
+we will also use the house price data from may of 2014 to may of 2015
