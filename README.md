@@ -1,6 +1,8 @@
 # housing_cost_predictive_analysis
 
 ## Data Info
+
+### path_to_file.csv
 `B25104_001E`: Estimate!!Total:	MONTHLY HOUSING COSTS
 
 `B25104_002E`: Estimate!!Total:!!Less than $100	MONTHLY HOUSING COSTS
@@ -34,3 +36,6 @@
 `B25104_016E`: Estimate!!Total:!!$3,000 or more	MONTHLY HOUSING COSTS
 
 `B25104_017E`: Estimate!!Total:!!No cash rent	MONTHLY HOUSING COSTS
+
+### house_data.csv
+we will also use the house_data
