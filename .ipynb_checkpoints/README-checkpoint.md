@@ -1,5 +1,5 @@
 # Housing Price Prediction in King County
-Haochen Miao, GunHee Lee, Rusheel, Anthony Kim
+Haochen Miao, GunHee Lee, Rusheel
 ## Project Overview
 This project focuses on building a predictive model for housing prices in King County, USA. The primary goal is to utilize historical house sale data to forecast future prices, aiding both buyers and sellers in the real estate market.
 
